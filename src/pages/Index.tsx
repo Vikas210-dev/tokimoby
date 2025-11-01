@@ -10,7 +10,7 @@ const videos = [
     id: 1,
     title: "Love Beyond Words",
     duration: "5:24",
-    language: "Hindi",
+    language: "English",
     thumbnail: "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?w=400&h=700&fit=crop",
     views: "2.3M",
   },
@@ -24,9 +24,9 @@ const videos = [
   },
   {
     id: 3,
-    title: "வீட்டுக்கு வா",
+    title: "L'Amour Éternel",
     duration: "4:12",
-    language: "Tamil",
+    language: "French",
     thumbnail: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=700&fit=crop",
     views: "950K",
   },
@@ -40,9 +40,9 @@ const videos = [
   },
   {
     id: 5,
-    title: "माँ की ममता",
+    title: "El Camino del Corazón",
     duration: "4:55",
-    language: "Hindi",
+    language: "Spanish",
     thumbnail: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=700&fit=crop",
     views: "2.7M",
   },
@@ -73,7 +73,7 @@ const Index = () => {
         <div className="p-4 space-y-4">
           <div className="flex items-center justify-between">
             <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              StoryFlix
+              Tokimoby
             </h1>
             <div className="text-xs text-muted-foreground">
               Watch Stories. Feel Emotions.

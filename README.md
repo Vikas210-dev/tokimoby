@@ -1,10 +1,10 @@
-# StoryFlix
+# Tokimoby
 
 Watch Stories. Feel Emotions.
 
 ## About
 
-StoryFlix is a mobile-first short video story platform featuring multilingual content. Watch, feel, and connect with stories in your preferred language.
+Tokimoby is a mobile-first short video story platform featuring multilingual content. Watch, feel, and connect with stories in your preferred language (English, French, Spanish).
 
 ## Technologies
 
@@ -40,7 +40,7 @@ npm run build
 ## Features
 
 - Mobile-first design optimized for 480px viewport
-- Multilingual story support (10+ Indian languages)
+- Multilingual story support (English, French, Spanish)
 - Subscription management
 - Language preferences
 - User authentication with OTP

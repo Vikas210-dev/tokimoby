@@ -32,7 +32,7 @@ const Login = () => {
     if (otp.length === 6) {
       localStorage.setItem("isLoggedIn", "true");
       toast({
-        title: "Welcome to StoryFlix!",
+        title: "Welcome to Tokimoby!",
         description: "Login successful",
       });
       navigate("/");
@@ -55,7 +55,7 @@ const Login = () => {
           </div>
           <div>
             <h1 className="text-4xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              StoryFlix
+              Tokimoby
             </h1>
             <p className="text-muted-foreground mt-2">Watch Stories. Feel Emotions.</p>
           </div>

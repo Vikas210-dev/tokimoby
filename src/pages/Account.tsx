@@ -87,7 +87,7 @@ const Account = () => {
 
       {/* App Info */}
       <div className="text-center mt-8 text-muted-foreground text-sm">
-        <p>StoryFlix v1.0</p>
+        <p>Tokimoby v1.0</p>
         <p className="mt-1">Watch Stories. Feel Emotions.</p>
       </div>
 

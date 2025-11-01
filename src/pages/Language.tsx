@@ -6,19 +6,12 @@ import { useToast } from "@/hooks/use-toast";
 
 const languages = [
   { code: "en", name: "English", flag: "🇬🇧" },
-  { code: "hi", name: "हिन्दी", flag: "🇮🇳" },
-  { code: "ta", name: "தமிழ்", flag: "🇮🇳" },
-  { code: "te", name: "తెలుగు", flag: "🇮🇳" },
-  { code: "ml", name: "മലയാളം", flag: "🇮🇳" },
-  { code: "kn", name: "ಕನ್ನಡ", flag: "🇮🇳" },
-  { code: "mr", name: "मराठी", flag: "🇮🇳" },
-  { code: "bn", name: "বাংলা", flag: "🇮🇳" },
-  { code: "gu", name: "ગુજરાતી", flag: "🇮🇳" },
-  { code: "pa", name: "ਪੰਜਾਬੀ", flag: "🇮🇳" },
+  { code: "fr", name: "Français", flag: "🇫🇷" },
+  { code: "es", name: "Español", flag: "🇪🇸" },
 ];
 
 const Language = () => {
-  const [selectedLanguages, setSelectedLanguages] = useState(["en", "hi"]);
+  const [selectedLanguages, setSelectedLanguages] = useState(["en"]);
   const { toast } = useToast();
 
   const toggleLanguage = (code: string) => {
@@ -52,7 +45,7 @@ const Language = () => {
       </div>
 
       {/* Language Grid */}
-      <div className="p-4 grid grid-cols-2 gap-3 mt-6 animate-slide-up">
+      <div className="p-4 grid grid-cols-3 gap-3 mt-6 animate-slide-up">
         {languages.map((lang) => (
           <div
             key={lang.code}
