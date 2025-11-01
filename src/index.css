@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* StoryFlix Dark Theme - Mobile-First Design System */
+    --background: 250 30% 8%;
+    --foreground: 0 0% 98%;
+
+    --card: 250 25% 12%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 250 30% 10%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 270 80% 60%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 280 70% 50%;
+    --secondary-foreground: 0 0% 100%;
+
+    --accent: 25 95% 60%;
+    --accent-foreground: 250 30% 10%;
+
+    --muted: 250 20% 20%;
+    --muted-foreground: 0 0% 65%;
+
+    --destructive: 0 85% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 250 20% 20%;
+    --input: 250 20% 18%;
+    --ring: 270 80% 60%;
+
+    --radius: 1rem;
+
+    /* StoryFlix Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(270 80% 60%) 0%, hsl(280 70% 50%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(25 95% 60%) 0%, hsl(15 90% 55%) 100%);
+    --gradient-card: linear-gradient(135deg, hsl(250 25% 12% / 0.8) 0%, hsl(250 20% 15% / 0.6) 100%);
+    
+    /* Glass morphism */
+    --glass-bg: hsl(250 25% 12% / 0.4);
+    --glass-border: hsl(0 0% 100% / 0.1);
+    
+    /* Shadows */
+    --shadow-glow: 0 8px 32px hsl(270 80% 60% / 0.3);
+    --shadow-card: 0 4px 20px hsl(0 0% 0% / 0.3);
+    
+    /* Animations */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+
+  /* Mobile-first max width */
+  #root {
+    max-width: 480px;
+    margin: 0 auto;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.3);
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--background));
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--primary));
+}
