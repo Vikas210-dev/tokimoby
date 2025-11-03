@@ -9,6 +9,7 @@ import Subscription from "./pages/Subscription";
 import Language from "./pages/Language";
 import Account from "./pages/Account";
 import NotFound from "./pages/NotFound";
+import LanguageStories from "./pages/LanguageStories";
 
 const queryClient = new QueryClient();
 
@@ -21,6 +22,7 @@ const App = () => (
         <Routes>
           <Route path="/login" element={<Login />} />
           <Route path="/" element={<Index />} />
+          <Route path="/stories/:languageCode" element={<LanguageStories />} />
           <Route path="/subscription" element={<Subscription />} />
           <Route path="/language" element={<Language />} />
           <Route path="/account" element={<Account />} />

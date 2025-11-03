@@ -1,60 +1,11 @@
 import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { Search } from "lucide-react";
-import VideoCard from "@/components/VideoCard";
 import BottomNav from "@/components/BottomNav";
+import LanguageFilter from "@/components/LanguageFilter";
+import VideoCard from "@/components/VideoCard";
 import { Input } from "@/components/ui/input";
-
-const videos = [
-  {
-    id: 1,
-    title: "Love Beyond Words",
-    duration: "5:24",
-    language: "English",
-    thumbnail: "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?w=400&h=700&fit=crop",
-    views: "2.3M",
-  },
-  {
-    id: 2,
-    title: "The Last Goodbye",
-    duration: "3:45",
-    language: "English",
-    thumbnail: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=700&fit=crop",
-    views: "1.8M",
-  },
-  {
-    id: 3,
-    title: "L'Amour Éternel",
-    duration: "4:12",
-    language: "French",
-    thumbnail: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=700&fit=crop",
-    views: "950K",
-  },
-  {
-    id: 4,
-    title: "Dreams of Tomorrow",
-    duration: "6:08",
-    language: "English",
-    thumbnail: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
-    views: "3.1M",
-  },
-  {
-    id: 5,
-    title: "El Camino del Corazón",
-    duration: "4:55",
-    language: "Spanish",
-    thumbnail: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=700&fit=crop",
-    views: "2.7M",
-  },
-  {
-    id: 6,
-    title: "Friendship Forever",
-    duration: "3:30",
-    language: "English",
-    thumbnail: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
-    views: "1.2M",
-  },
-];
+import { videosByLanguage } from "@/data/videos";
 
 const Index = () => {
   const navigate = useNavigate();
@@ -65,6 +16,13 @@ const Index = () => {
       navigate("/login");
     }
   }, [navigate]);
+
+  // Get 5 videos from each language for the home page (15 total)
+  const homeVideos = [
+    ...videosByLanguage.en.slice(0, 5),
+    ...videosByLanguage.fr.slice(0, 5),
+    ...videosByLanguage.es.slice(0, 5),
+  ];
 
   return (
     <div className="min-h-screen bg-background pb-24">
@@ -91,10 +49,22 @@ const Index = () => {
         </div>
       </div>
 
+      {/* Language Filter */}
+      <div className="mt-4">
+        <LanguageFilter />
+      </div>
+
       {/* Video Grid */}
       <div className="p-4 grid grid-cols-2 gap-4 animate-fade-in">
-        {videos.map((video) => (
-          <VideoCard key={video.id} {...video} />
+        {homeVideos.map((video) => (
+          <VideoCard
+            key={`${video.language}-${video.id}`}
+            title={video.title}
+            duration={video.duration}
+            language={video.language}
+            thumbnail={video.thumbnail}
+            views={video.views}
+          />
         ))}
       </div>
 

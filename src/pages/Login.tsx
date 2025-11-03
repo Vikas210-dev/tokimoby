@@ -48,11 +48,8 @@ const Login = () => {
   return (
     <div className="min-h-screen bg-background flex items-center justify-center p-4 animate-fade-in">
       <div className="w-full max-w-md space-y-8">
-        {/* Logo & Brand */}
+        {/* Logo & Brand removed */}
         <div className="text-center space-y-4">
-          <div className="inline-flex items-center justify-center w-20 h-20 bg-gradient-primary rounded-3xl animate-glow">
-            <Play className="w-10 h-10 text-primary-foreground fill-current" />
-          </div>
           <div>
             <h1 className="text-4xl font-bold bg-gradient-primary bg-clip-text text-transparent">
               Tokimoby
