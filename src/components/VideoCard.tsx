@@ -1,42 +1,53 @@
 import { Play } from "lucide-react";
+import { useState } from "react";
+import VideoPlayerModal from "./VideoPlayerModal";
 
 interface VideoCardProps {
   title: string;
   duration: string;
   language: string;
-  thumbnail: string;
+  embedUrl: string;
   views?: string;
 }
 
-const VideoCard = ({ title, duration, language, thumbnail, views }: VideoCardProps) => {
+const VideoCard = ({ title, duration, language, embedUrl, views }: VideoCardProps) => {
+  const [isModalOpen, setIsModalOpen] = useState(false);
+
   return (
-    <div className="group relative bg-card rounded-2xl overflow-hidden border border-border hover:border-primary transition-all hover:scale-105 cursor-pointer">
-      {/* Thumbnail */}
-      <div className="relative aspect-[9/16] overflow-hidden">
-        <img
-          src={thumbnail}
-          alt={title}
-          className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
-        />
-        <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-transparent to-transparent" />
-        
-        {/* Play Button Overlay */}
-        <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
-          <div className="w-16 h-16 bg-primary/90 backdrop-blur-sm rounded-full flex items-center justify-center">
-            <Play className="w-8 h-8 text-primary-foreground fill-current ml-1" />
+    <>
+      <div 
+        onClick={() => setIsModalOpen(true)}
+        className="group relative bg-card rounded-2xl overflow-hidden border border-border hover:border-primary transition-all hover:scale-105 cursor-pointer"
+      >
+        {/* Video Embed (as thumbnail) */}
+        <div className="relative aspect-[9/16] overflow-hidden bg-black">
+          <iframe
+            src={embedUrl}
+            className="w-full h-full border-0 pointer-events-none"
+            allow="accelerometer; gyroscope; encrypted-media; picture-in-picture;"
+            title={title}
+          />
+          
+          {/* Dark overlay */}
+          <div className="absolute inset-0 bg-black/40 group-hover:bg-black/60 transition-colors" />
+          
+          {/* Play Button Overlay */}
+          <div className="absolute inset-0 flex items-center justify-center">
+            <div className="w-16 h-16 bg-primary/90 backdrop-blur-sm rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
+              <Play className="w-8 h-8 text-primary-foreground fill-current ml-1" />
+            </div>
+          </div>
+          
+          {/* Duration Badge */}
+          <div className="absolute top-3 right-3 bg-background/80 backdrop-blur-sm px-2 py-1 rounded-lg text-xs font-semibold pointer-events-none z-10">
+            {duration}
+          </div>
+
+          {/* Language Badge */}
+          <div className="absolute top-3 left-3 bg-primary/90 backdrop-blur-sm px-3 py-1 rounded-full text-xs font-semibold text-primary-foreground pointer-events-none z-10">
+            {language}
           </div>
         </div>
-
-        {/* Duration Badge */}
-        <div className="absolute top-3 right-3 bg-background/80 backdrop-blur-sm px-2 py-1 rounded-lg text-xs font-semibold">
-          {duration}
-        </div>
-
-        {/* Language Badge */}
-        <div className="absolute top-3 left-3 bg-primary/90 backdrop-blur-sm px-3 py-1 rounded-full text-xs font-semibold text-primary-foreground">
-          {language}
-        </div>
-      </div>
 
       {/* Info */}
       <div className="p-3 space-y-1">
@@ -46,6 +57,16 @@ const VideoCard = ({ title, duration, language, thumbnail, views }: VideoCardPro
         )}
       </div>
     </div>
+
+    {/* Video Player Modal */}
+    {isModalOpen && (
+      <VideoPlayerModal
+        embedUrl={embedUrl}
+        title={title}
+        onClose={() => setIsModalOpen(false)}
+      />
+    )}
+  </>
   );
 };
 

@@ -17,11 +17,11 @@ const Index = () => {
     }
   }, [navigate]);
 
-  // Get 5 videos from each language for the home page (15 total)
+  // Get 4 videos from each language for the home page (12 total)
   const homeVideos = [
-    ...videosByLanguage.en.slice(0, 5),
-    ...videosByLanguage.fr.slice(0, 5),
-    ...videosByLanguage.es.slice(0, 5),
+    ...videosByLanguage.en.slice(0, 4),
+    ...videosByLanguage.fr.slice(0, 4),
+    ...videosByLanguage.es.slice(0, 4),
   ];
 
   return (
@@ -62,7 +62,7 @@ const Index = () => {
             title={video.title}
             duration={video.duration}
             language={video.language}
-            thumbnail={video.thumbnail}
+            embedUrl={video.embedUrl}
             views={video.views}
           />
         ))}

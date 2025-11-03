@@ -29,7 +29,7 @@ export const frenchVideos: Video[] = [
     title: "The Secret Library Under the Lake",
     duration: "4:12",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/dd2ff85f-7b38-4c7d-9a06-e07c03a37c31?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/870bd52a-3046-4922-af2d-052616e7cde7?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=700&fit=crop",
@@ -40,7 +40,7 @@ export const frenchVideos: Video[] = [
     title: "Queen of the Crystal Forest",
     duration: "5:08",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/db02bfe4-ab3b-4353-b06a-7cc1ebe03c25?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/dae1b38f-5b4d-41c5-be69-0b1255d5bb40?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -51,7 +51,7 @@ export const frenchVideos: Video[] = [
     title: "The Timekeeper's Watch",
     duration: "4:30",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/4f854a39-c2dc-4e6c-84ad-03a2f86bb0fc?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/9c28abb7-6687-45dd-ab70-d4318efc28da?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=700&fit=crop",
@@ -62,7 +62,7 @@ export const frenchVideos: Video[] = [
     title: "The Ship That Sailed the Sky",
     duration: "5:15",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/f0bfc067-96ec-4e3a-b2b8-0c9f25e23c16?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/a5d70aad-af9e-4e72-9b44-f9139268109d?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -73,7 +73,7 @@ export const frenchVideos: Video[] = [
     title: "Guardians of Hope",
     duration: "4:45",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/d3ae6aae-6604-4e1d-bcf2-f6a3e5a41efd?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/2add0f5f-b95f-4b14-960c-c847e8349733?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -84,7 +84,7 @@ export const frenchVideos: Video[] = [
     title: "The Feather That Granted Wishes",
     duration: "3:50",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/c82ffc78-0c84-4deb-9c0f-9f7638ba1eff?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/ff92d385-1877-4f5c-ba65-db2c2b1a8f67?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -95,7 +95,7 @@ export const frenchVideos: Video[] = [
     title: "A cat that appears only in dreams",
     duration: "4:20",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/56313c99-e069-4ee6-8ef2-1e70f6d17f58?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/a7749299-ec1e-4d5d-8027-22a2117d825d?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -106,7 +106,7 @@ export const frenchVideos: Video[] = [
     title: "A rainy day indoor camping",
     duration: "3:30",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/7c9b86e4-ec34-4595-a20f-f8a7f46eafd5?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/32eb32da-4283-407e-a7b1-499a8c3e384a?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -117,7 +117,7 @@ export const frenchVideos: Video[] = [
     title: "A charity lemonade stand's unexpected twist",
     duration: "4:10",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/c5f1b87e-4c25-449b-833a-fb87b6f9950f?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/6bbec8c1-ce06-43f3-a515-c517b1da9d82?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -128,7 +128,7 @@ export const frenchVideos: Video[] = [
     title: "A runaway suitcase with cryptic contents",
     duration: "5:00",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/b0a57b7c-81bc-4cf7-b70f-4c1f91b0614d?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/3f727405-dc49-4774-8473-d8f755a60f0c?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -139,7 +139,7 @@ export const frenchVideos: Video[] = [
     title: "A neighborhood clean‑up turned block party",
     duration: "4:35",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/58b9b025-d69c-4ed9-8d5f-c1fef4a88b63?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/099de1b0-f509-4a2d-b736-9cd8ac805a2a?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -150,7 +150,7 @@ export const frenchVideos: Video[] = [
     title: "A surprise backyard movie night setup",
     duration: "3:55",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/4f66ee3d-e0a4-4d41-a6a6-46d77ca06eb5?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/f399c61e-6b59-498b-bd27-ab979a6dd0c2?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=700&fit=crop",
@@ -161,7 +161,7 @@ export const frenchVideos: Video[] = [
     title: "First day at a new school—making friends",
     duration: "4:25",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/74e78f26-2667-4ddc-a1c2-b5f6a94f1a1d?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/c502ca1c-b9f1-430b-84a0-af68a942e393?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -172,7 +172,7 @@ export const frenchVideos: Video[] = [
     title: "A friendship bracelet carries a secret message",
     duration: "3:40",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/c23097c4-9e3d-4a76-b7fa-e7a82c3bb41c?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/1abe2a76-fd0c-4fea-8d3a-91d5fad1e2ea?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -183,7 +183,7 @@ export const frenchVideos: Video[] = [
     title: "Collecting stories from local elders",
     duration: "5:10",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/a06a1cb4-9cb6-47b9-9652-cd9e1edb11de?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/0f6f2572-de52-42d3-8759-9813772493eb?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -194,7 +194,7 @@ export const frenchVideos: Video[] = [
     title: "A day without screens—rediscovering simple joys",
     duration: "4:15",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/f3e3da03-8d77-4506-afcc-b41f1a1da5ad?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/729e1072-120c-427e-bbba-af485b6e7308?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -205,7 +205,7 @@ export const frenchVideos: Video[] = [
     title: "A shy kid helps a grumpy classmate find their smile",
     duration: "3:50",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/08fe1e64-81e1-4ced-ba1e-d0c09dd56bb5?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/c0bc2886-ee4c-4c64-b61b-76156c1b5f3c?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -216,7 +216,7 @@ export const frenchVideos: Video[] = [
     title: "Siblings compete in a homemade obstacle course",
     duration: "4:30",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/1cbbde72-2d81-4a45-b1be-65ddbf7e4c5d?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/e1c4becb-b6d6-400a-9d1d-72e18ee08b68?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -227,7 +227,7 @@ export const frenchVideos: Video[] = [
     title: "An elderly neighbor and a child bond over gardening",
     duration: "5:20",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/e6da8fe0-d5bf-4e9b-8bba-9050e4ca9b18?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/59e8093e-5aaa-4939-8e69-9385ac0f6af5?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -238,7 +238,7 @@ export const frenchVideos: Video[] = [
     title: "A long‑distance friendship powered by enchanted mirrors",
     duration: "4:40",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/ed49f16a-62a4-4bdc-8ba5-d25f7bced8fb?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/3313adeb-465c-4686-9435-e5cc3ad31324?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -249,7 +249,7 @@ export const frenchVideos: Video[] = [
     title: "An underground cave with glowing crystals",
     duration: "3:45",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/8fa4c7bb-8bb5-4ecb-9d4b-e31f9b1ec95d?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/30265049-ea1f-4c47-86c8-05df2f735c64?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -260,7 +260,7 @@ export const frenchVideos: Video[] = [
     title: "A duo's road trip goes hilariously off‑plan",
     duration: "5:05",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/49a78c2e-ad3c-4405-86e1-12dcd2b4cc8c?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/0e46cc26-1055-4da2-891e-3577185cad5b?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -271,7 +271,7 @@ export const frenchVideos: Video[] = [
     title: "A backyard expedition to find a lost city",
     duration: "4:20",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/a9c9af14-b74a-4962-8adf-3da8d0ed8e90?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/ceb6ac7d-3673-4651-9f8b-e8a9f3481089?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -282,7 +282,7 @@ export const frenchVideos: Video[] = [
     title: "A dolphin teaching a child to swim",
     duration: "3:35",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/1253db0f-bf49-46c4-b976-5cd55a1e9b59?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/cacd325f-6544-4af2-b4ae-550077589efb?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -293,7 +293,7 @@ export const frenchVideos: Video[] = [
     title: "A turtle's marathon across the beach",
     duration: "4:50",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/18f9caa2-d2ec-442a-bbfe-f7e8f7aaf67e?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/07e72dc6-5b40-4fa9-b699-285bd0496fef?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -304,7 +304,7 @@ export const frenchVideos: Video[] = [
     title: "A levitating castle that drifts across lands",
     duration: "5:25",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/e1e2db5f-4a21-4ec5-8e7f-9cbbe4c9f9eb?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/c223f414-5c69-4c43-80c1-85744ac4c2d7?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -315,7 +315,7 @@ export const frenchVideos: Video[] = [
     title: "A sneezing elephant on a tightrope",
     duration: "3:20",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/1f83f2c3-e3e6-4ccd-a9b7-eaf0cadfce91?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/b69932d4-c6b2-417f-9c23-ea0da16d17aa?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -326,7 +326,7 @@ export const frenchVideos: Video[] = [
     title: "Space‑station garden growing Earth plants",
     duration: "4:55",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/d99c880d-4853-4bdb-989a-ca35eac10be0?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/6cbfe5c6-9307-40a4-b46d-f976948883e8?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -337,7 +337,7 @@ export const frenchVideos: Video[] = [
     title: "A radio that picks up ghostly broadcasts",
     duration: "4:10",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/e6513e7e-a1f8-430e-99b8-2fd3b6e2aedb?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/e2acadcf-38d7-410b-bf08-ee4e902612d6?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -348,7 +348,7 @@ export const frenchVideos: Video[] = [
     title: "Baking cookies for the first time with Grandma",
     duration: "3:40",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/f86c0fbb-83c4-455c-bfe5-18c1b88ee663?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/b0dfd548-e0df-4585-8c06-00037c9a7965?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -359,7 +359,7 @@ export const frenchVideos: Video[] = [
     title: "A pizza delivery in zero gravity",
     duration: "4:25",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/9e7652fd-f006-461e-adca-0f4d23b02d55?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/a5c56719-4f8b-4721-83cc-ec1a948941f3?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -370,7 +370,7 @@ export const frenchVideos: Video[] = [
     title: "A whale's song echoing under the sea",
     duration: "5:30",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/a23c3bf3-72c8-44dc-99eb-6db0b5f72b27?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/46a2aa1b-99d6-4937-8edd-692a569c1489?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -381,7 +381,7 @@ export const frenchVideos: Video[] = [
     title: "Plants whispering secrets to a gardener",
     duration: "3:55",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/76c9e464-7c51-40c8-957d-ec6a29a6e99b?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/708a7df5-7f92-47dc-8cf0-e78574c2dd99?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -392,7 +392,7 @@ export const frenchVideos: Video[] = [
     title: "Building a snowman that tells stories",
     duration: "4:45",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/37ba3c0c-6bc5-41e1-babc-3d61a4ab5d9e?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/b4a5a282-35bd-412f-b731-a01ce0f7984a?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -403,7 +403,7 @@ export const frenchVideos: Video[] = [
     title: "A dancing robot with two left feet",
     duration: "3:25",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/a2bc9d63-1e36-4cb2-9b61-6de60fc8fe68?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/efa9785a-7e0c-4b63-a825-c34a42e767e8?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -414,7 +414,7 @@ export const frenchVideos: Video[] = [
     title: "A kindness chain reaction among classmates",
     duration: "4:15",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/c85e4bac-cb5e-41bf-b81c-8aa7f6da69ad?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/739b08c9-d5b6-4842-a31b-fd70a8cae33d?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -425,7 +425,7 @@ export const frenchVideos: Video[] = [
     title: "Time‑traveling explorer meets their future self",
     duration: "5:15",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/3f4f3cde-9c31-4eec-bfa6-bbb83d40add7?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/8af4b75f-1645-4928-b061-dcab77c046de?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -436,7 +436,7 @@ export const frenchVideos: Video[] = [
     title: "Pen‑drawing friends come to life",
     duration: "3:50",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/1fd0ce50-e69e-421c-9f4c-3a62bed856a1?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/9057a9f5-687f-44aa-9ba8-7cfa62f90e35?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -447,7 +447,7 @@ export const frenchVideos: Video[] = [
     title: "Exploring a hidden tunnel beneath school",
     duration: "4:30",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/0f3ec5e9-56f5-4d86-a9e5-2a1f04dd01f7?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/b056d003-5100-46df-94d9-0325cd92c5c1?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -458,7 +458,7 @@ export const frenchVideos: Video[] = [
     title: "A toy ship's voyage across the bathtub seas",
     duration: "3:35",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/4ed06dd2-e78f-4be4-ab82-f98b4fe8bd02?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/67e980b0-7dd7-4386-b405-3b417d3c279e?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -469,7 +469,7 @@ export const frenchVideos: Video[] = [
     title: "A 'friendship tree' that grants one wish",
     duration: "4:50",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/7a45ebbe-9c26-4d5f-ab51-9d87e6d87b5f?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/5f1c332b-0bb9-45c3-8d9d-603310abc807?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -480,7 +480,7 @@ export const frenchVideos: Video[] = [
     title: "A hot‑air‑balloon race across continents",
     duration: "5:05",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/2a22f859-aacc-44fb-a6cd-e22d63e7d0e4?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/df9774fe-c30d-4a62-b2ab-9a925c9ac6e2?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -491,7 +491,7 @@ export const frenchVideos: Video[] = [
     title: "A group project teaches the value of cooperation",
     duration: "4:20",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/9b88e1c2-b6b5-46db-b4c6-6c00d6b89bda?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/ea34af4a-ee0d-4553-9d11-02aaf9a34aba?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -502,7 +502,7 @@ export const frenchVideos: Video[] = [
     title: "A sky‑pirate chase above the clouds",
     duration: "3:45",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/ea69e7dc-ccee-4a87-a40d-5d74d5e78395?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/6c5ca93c-1418-4c4c-8df7-0cd000c07d4f?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -513,7 +513,7 @@ export const frenchVideos: Video[] = [
     title: "A locked diary with moving letters",
     duration: "4:35",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/2e370f16-4dcf-4ad6-893e-c65c96aaa5d4?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/b0f320e1-bfad-40cd-bf2a-8faf6f1713b6?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -524,7 +524,7 @@ export const frenchVideos: Video[] = [
     title: "A mysterious island appears in a pond",
     duration: "5:10",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/f8a74c1b-9dd5-414d-b34f-c9fbd12c71ea?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/ffe33e54-1294-430c-b92b-0c395558b47a?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -535,7 +535,7 @@ export const frenchVideos: Video[] = [
     title: "Kids shrink to insect‑size and explore a garden",
     duration: "4:00",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/7ac19ee2-0c39-416c-8b39-efbef8a92e05?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/54bb4c2b-417d-4ff2-bf46-2706534bce99?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -546,7 +546,7 @@ export const frenchVideos: Video[] = [
     title: "A puppy and a kitten learn to share a toy",
     duration: "3:30",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/a2e08e68-05fb-4cc5-abf3-eea76d3fe70d?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/afa9937e-dd02-4219-9001-63cb75c6d583?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -557,7 +557,7 @@ export const frenchVideos: Video[] = [
     title: "A forest where toys come alive at night",
     duration: "4:45",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/d2f73aae-24d0-4e96-a6f1-8b5efde48950?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/7f215387-c38c-49a1-925c-a80856005d72?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -568,7 +568,7 @@ export const frenchVideos: Video[] = [
     title: "A mirror that shows your truest self",
     duration: "3:55",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/04bef97f-e0ba-47d3-8dc3-bf43dd04fa1d?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/fba03311-3c3c-4a46-92ba-9b1fec9a12e3?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -579,7 +579,7 @@ export const frenchVideos: Video[] = [
     title: "Magical seeds that sprout impossible plants",
     duration: "4:25",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/c23c6ca9-6f85-4e1f-b0e5-23e3cc0f1de6?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/b09bffe3-014f-48ef-bfa1-73ca96972a63?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -590,7 +590,7 @@ export const frenchVideos: Video[] = [
     title: "A cursed paintbrush that brings art to life",
     duration: "5:20",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/e4a69e08-0e60-45a4-b621-37d0eabf53fb?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/29c83c8e-9559-495f-a714-084b30e3deaa?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -601,7 +601,7 @@ export const frenchVideos: Video[] = [
     title: "A portal in a wardrobe to a candy kingdom",
     duration: "3:40",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/85e3ec24-8a49-4532-80f8-e9f6c2ea3f64?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/a8995561-5017-469d-8f29-4efdf3b2f0d3?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -612,7 +612,7 @@ export const frenchVideos: Video[] = [
     title: "A cloak that makes the wearer invisible… almost",
     duration: "4:15",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/1e01fc81-e5e1-47b2-a12d-88eda4fb5c4e?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/d909ef8b-cc7c-4b60-be3c-15ee8346636a?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -623,7 +623,7 @@ export const frenchVideos: Video[] = [
     title: "A strange message on an old cassette tape",
     duration: "4:50",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/ae5cfd25-50c3-48d0-af33-26de7e90cd1a?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/be070246-b680-42b0-b324-cb3e8d5dda44?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -634,7 +634,7 @@ export const frenchVideos: Video[] = [
     title: "A desert trek in search of an enchanted oasis",
     duration: "5:05",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/cc89c3e0-f0a3-4dbb-a7da-6a2cd0c01c5f?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/b0b5d840-edb9-4358-849b-3440813220c9?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -645,7 +645,7 @@ export const frenchVideos: Video[] = [
     title: "A scavenger hunt through a futuristic city",
     duration: "3:50",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/cc3de732-6aee-466c-a2c6-a5f7e8867b98?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/4398a110-e8c1-432c-b8ff-87d354c01ddf?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -656,7 +656,7 @@ export const frenchVideos: Video[] = [
     title: "A wish‑granting coin with a mischievous spirit",
     duration: "4:30",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/07b38cd7-0aed-43f4-bd6d-8edab3bd5b41?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/9cc8acdd-4d63-4493-b932-3c066a4ad8c3?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -667,7 +667,7 @@ export const frenchVideos: Video[] = [
     title: "Two unlikely pen‑pals unite to solve a town mystery",
     duration: "4:10",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/8e72e72f-50f3-4a04-95d9-6ab854f62f33?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/92a7c48b-2bcb-4fd2-b236-95902dc84139?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -678,7 +678,7 @@ export const frenchVideos: Video[] = [
     title: "A magical map leads to secret treasures",
     duration: "3:35",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/f9fc4896-df06-4a63-a0da-9ecae5b4a7f5?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/9b09ec0f-1087-4374-929e-b89fc8e024d8?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -689,7 +689,7 @@ export const frenchVideos: Video[] = [
     title: "A mountain climb to rescue a stranded pet",
     duration: "5:15",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/a2063e82-72da-47ec-b09b-e6f56f36c0df?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/4a453aa7-90c3-4d4b-a328-c0b37ff16f72?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -700,7 +700,7 @@ export const frenchVideos: Video[] = [
     title: "Two loners discover they live next door",
     duration: "4:00",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/34e9d81e-e8ea-4076-ac42-c77d2450bad4?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/20106ee8-dcd9-46cf-b9e0-0d8efb2cce09?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -711,7 +711,7 @@ export const frenchVideos: Video[] = [
     title: "A young wizard's first day at magic school",
     duration: "4:40",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/8bdb29b1-9edc-469c-9ff9-e2a0cca93db1?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/9a296837-5261-4829-a147-dbedd66c7799?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -722,7 +722,7 @@ export const frenchVideos: Video[] = [
     title: "A benevolent dragon who fancies cupcakes",
     duration: "3:25",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/22cb7d47-6d80-4a7f-9ee2-de4c02e26301?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/0052316c-3c08-4765-8dfd-e17e88f1bd27?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -733,7 +733,7 @@ export const frenchVideos: Video[] = [
     title: "A mischievous sprite swaps people's voices",
     duration: "4:55",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/5e3df2e2-a21e-40b7-b4e3-af11e7eec5c2?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/affe676a-9d79-42e5-8cff-d6b0712e3574?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -744,7 +744,7 @@ export const frenchVideos: Video[] = [
     title: "A clock that runs backwards at midnight",
     duration: "3:50",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/b3d44ee6-6f70-4073-a064-e8a6fd67dbf4?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/2cfa89cc-b845-48ea-990e-b87328ee9f9a?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -755,7 +755,7 @@ export const frenchVideos: Video[] = [
     title: "A flickering streetlamp that reveals clues",
     duration: "4:20",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/6f88b6ee-f8c7-4ab4-9d83-7e4c1f5cc8c7?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/e0923243-cb91-419c-bed6-65c1f7909d29?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -766,7 +766,7 @@ export const frenchVideos: Video[] = [
     title: "A robot's day out in the human world",
     duration: "5:00",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/7aa04b7b-cfb5-48c8-9f64-5e25bbe7c5f4?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/33eaff08-baab-4568-ad32-f5df9eaab30b?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -777,7 +777,7 @@ export const frenchVideos: Video[] = [
     title: "A lunar base with an underground mystery",
     duration: "4:35",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/a9cefcaa-5f83-4e63-b78a-cdc59c5f2ffa?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/476da4ec-4b16-4c72-b2b1-2763021ab1c2?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -788,7 +788,7 @@ export const frenchVideos: Video[] = [
     title: "A futuristic city where cars fly—but traffic jams persist",
     duration: "3:45",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/07c8c9bd-6e44-4ef9-84f0-4eff9da66c9f?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/f79a2634-e45b-42df-9c1a-8b2d4c26ec98?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -799,7 +799,7 @@ export const frenchVideos: Video[] = [
     title: "Talking furniture that argues among themselves",
     duration: "4:15",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/29e2ad6d-c29f-446e-97e0-b7a5bcfa97b6?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/de070292-0ec9-43b5-8e59-336b6c94db79?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -810,7 +810,7 @@ export const frenchVideos: Video[] = [
     title: "Satellites delivering unexpected care packages",
     duration: "5:10",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/b1348bf6-bf7b-4af1-931f-1ee9e3d7ad7f?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/c923e1aa-8205-490d-8aa4-a03767c2a93a?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -821,7 +821,7 @@ export const frenchVideos: Video[] = [
     title: "Kids competing in a hoverboard race",
     duration: "3:55",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/59f83d68-8574-4df9-bdfd-ae4e30a2fba9?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/0e1bddb3-af8d-455e-9fe3-f6964a9bd1e6?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -832,7 +832,7 @@ export const frenchVideos: Video[] = [
     title: "Forgiveness between rival book‑club members",
     duration: "4:30",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/0d34eea6-a90e-4d68-b6b3-7e49fdf72b0f?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/578c5c17-50e6-446d-9d0c-a2cb24b3dbf6?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -843,7 +843,7 @@ export const frenchVideos: Video[] = [
     title: "A broomstick race through the moonlit sky",
     duration: "4:00",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/1cd1f6b8-5009-4430-ba04-31e2e6a06ad9?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/d2c1c06b-65f8-49d6-9c2b-9b3750f422e8?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -854,7 +854,7 @@ export const frenchVideos: Video[] = [
     title: "Responsibility of caring for a pet",
     duration: "3:40",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/17e7d009-10e1-4a4b-90f8-b3f25fd4e5ab?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/c18f90f0-29c7-4f9d-bf7f-88f97473af20?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -865,7 +865,7 @@ export const frenchVideos: Video[] = [
     title: "A time‑capsule app predicting life in 2050",
     duration: "4:45",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/bc1a5d98-6ea1-4eac-ac5e-e1e1ae7f15f7?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/896ec3bc-ade4-4b75-922f-0a5cb8d8002d?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -876,7 +876,7 @@ export const frenchVideos: Video[] = [
     title: "A sea witch's bargain for a mermaid's voice",
     duration: "5:20",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/04f1e62c-c87e-4cf4-8ca7-0d7ca3bac64a?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/26944020-f166-4779-bd5e-184b9cef4622?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -887,7 +887,7 @@ export const frenchVideos: Video[] = [
     title: "A message from an alien friend",
     duration: "3:30",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/e7a4f4f2-8c5c-4b2f-8e21-d3dbbfc7a81e?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/575b019e-9534-46a3-ac24-b5170c9f7297?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -898,7 +898,7 @@ export const frenchVideos: Video[] = [
     title: "Balancing screen‑time and family time",
     duration: "4:10",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/68a62de5-89c1-4ef7-a5cb-f20d24730e58?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/34f99cec-5ede-4e24-bdad-f28d2fc91e71?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -909,7 +909,7 @@ export const frenchVideos: Video[] = [
     title: "Learning to apologize after a big mistake",
     duration: "4:55",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/88ba8dbb-c76d-494e-9934-fe3b1eda64cf?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/e658686b-d234-43fc-9f96-58b0cda1c109?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -920,7 +920,7 @@ export const frenchVideos: Video[] = [
     title: "A lost baby bird's journey home",
     duration: "3:45",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/a9f7b8a9-11e9-40fc-ade0-a61ad1117fd1?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/b3d66a81-16fe-48e1-92c4-b3875c51c3e6?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -931,7 +931,7 @@ export const frenchVideos: Video[] = [
     title: "The joy of giving without expecting return",
     duration: "4:25",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/05a45e95-0a1d-4a88-9a15-89085db09073?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/be6e5038-bb87-463f-9ca2-549a922b9080?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -942,7 +942,7 @@ export const frenchVideos: Video[] = [
     title: "Patience tested by a growing beanstalk",
     duration: "5:00",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/a3b0e56e-c6e9-412e-97c7-5b5a8764e6c7?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/e6622e7b-f858-4b31-bce5-ef0b6b20e795?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -953,7 +953,7 @@ export const frenchVideos: Video[] = [
     title: "A ghost afraid of other ghosts",
     duration: "3:35",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/6a797db0-ddbe-456b-858d-b41a87d79e8d?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/94cedc67-940b-452c-92ad-e327ad67fef5?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -964,7 +964,7 @@ export const frenchVideos: Video[] = [
     title: "Fireflies lighting up a summer night",
     duration: "4:20",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/53aab8e4-4901-402b-823f-1050a21c3fa4?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/cd652aa4-9d25-4fe0-823a-d0082d533beb?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -975,7 +975,7 @@ export const frenchVideos: Video[] = [
     title: "Bravery in standing up to a playground bully",
     duration: "4:50",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/fd3d0ec0-3bb8-450c-86ff-a6c5b48c3e9a?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/ec884bef-92d0-40c4-89be-adaaf5b8540a?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -986,7 +986,7 @@ export const frenchVideos: Video[] = [
     title: "Lost phone, found connections in the community",
     duration: "3:50",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/c2ffadcc-fc04-424b-a3e1-90e5ac0d7f55?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/65a73605-fd7e-4e18-8c3c-c8dcfda48ed0?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -997,7 +997,7 @@ export const frenchVideos: Video[] = [
     title: "A fox and a raven forging an unlikely alliance",
     duration: "4:15",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/bef92ee6-1a1a-469b-b5fb-a64c26cec7b1?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/c338280e-7f3c-44f9-8b31-8166cca75324?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -1008,7 +1008,7 @@ export const frenchVideos: Video[] = [
     title: "Squirrels planning a grand nut heist",
     duration: "3:40",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/00dd71e5-9c85-428e-bdf4-3f8e7f66f92e?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/0f6d4b98-7ef6-44ea-9144-abdaa91a4012?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -1019,7 +1019,7 @@ export const frenchVideos: Video[] = [
     title: "A detective who solves crimes by tripping over clues",
     duration: "5:05",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/6ee9bd8d-3f34-410a-9c61-ac0cddf0aef8?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/5aa0c407-2923-4cb0-99cd-a669e6a597cb?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
@@ -1030,7 +1030,7 @@ export const frenchVideos: Video[] = [
     title: "A letter‑writing project to pen‑friends worldwide",
     duration: "4:30",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/63e25c18-37ce-4e1e-955b-80a9ac83086e?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/ef757aba-21e2-4735-9b05-4e6893a67e64?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=700&fit=crop",
@@ -1041,7 +1041,7 @@ export const frenchVideos: Video[] = [
     title: "A superhero whose power is excessive polite talk",
     duration: "3:55",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/e17adc1f-7bdc-4b9c-b009-fce82af28962?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/ba9a490f-6893-41cb-917c-7a5afd3b123b?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=700&fit=crop",
@@ -1052,7 +1052,7 @@ export const frenchVideos: Video[] = [
     title: "A day in the life of a busy beehive",
     duration: "4:40",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/4e1a4a16-7e28-4d02-9d0e-9b2dcaeea0aa?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/1fdc9dec-7d83-4d23-a8b8-490dfecdcb21?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=700&fit=crop",
@@ -1063,7 +1063,7 @@ export const frenchVideos: Video[] = [
     title: "Samurai and farmer learn mutual respect",
     duration: "5:15",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/ca95875a-c7d5-49be-81be-54aaad2be9a1?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/36389d8e-e6e3-4459-9932-a40c4d645fec?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=700&fit=crop",
@@ -1074,7 +1074,7 @@ export const frenchVideos: Video[] = [
     title: "A radio that picks up ghostly broadcasts",
     duration: "4:05",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/b3d9e39f-e36f-45e2-ab59-54bfe2e8f43c?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/36389d8e-e6e3-4459-9932-a40c4d645fec?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=700&fit=crop",
@@ -1085,7 +1085,7 @@ export const frenchVideos: Video[] = [
     title: "Siblings compete in a homemade obstacle course",
     duration: "3:45",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/87fcbbba-3e2e-413d-bcba-baa22e3e3b45?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/930b2d52-b469-4bad-851a-f375017d36b3?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=700&fit=crop",
@@ -1096,7 +1096,7 @@ export const frenchVideos: Video[] = [
     title: "A backyard expedition to find a lost city",
     duration: "4:20",
     embedUrl:
-      "https://iframe.mediadelivery.net/embed/472019/de8db47c-3f5d-4e39-9cf8-91e67cc5b3d4?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
+      "https://iframe.mediadelivery.net/embed/472019/d8ff8009-7dd9-4614-8a9a-edec612707ae?autoplay=false&loop=false&muted=false&preload=true&responsive=true",
     language: "French",
     thumbnail:
       "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=400&h=700&fit=crop",
