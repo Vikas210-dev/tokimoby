@@ -5,7 +5,7 @@ const BottomNav = () => {
   const navigate = useNavigate();
   const location = useLocation();
 
-  const navItems = [
+  const navItems = [ 
     { icon: Home, label: "Home", path: "/" },
     { icon: Sparkles, label: "Subscribe", path: "/subscription" },
     { icon: Globe, label: "Languages", path: "/language" },
